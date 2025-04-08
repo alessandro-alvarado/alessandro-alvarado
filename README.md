@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Computer Information Systems and Analytics Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/joshmadakor1/EncrypterPOC)
+- [Java Technical Skills](https://github.com/alessandro-alvarado/JavaTechnicalSkills/blob/main/README.md)
 
 
 <h2>📺 Popular YouTube Videos</h2>
