@@ -1,6 +1,6 @@
 <h1>Hello, I'm Alessandro Alvarado! <br/><a href="https://www.linkedin.com/in/alessandro-alvarado-8b5457325/">Computer Information Systems and Analytics</a></h1>
 
-<h2>👨‍💻 Computer Information Systems and Analytics Projects:</h2>
+<h2>🧠 Technical Skill Demonstrations by Language:</h2>
 
 - [Python Technical Skills](https://github.com/alessandro-alvarado/JavaTechnicalSkills/blob/main/README.md)
 - [SQL Technical Skills](https://github.com/alessandro-alvarado/JavaTechnicalSkills/blob/main/README.md)
