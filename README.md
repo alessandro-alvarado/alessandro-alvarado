@@ -1,4 +1,4 @@
-<h1>Hello, I'm Alessandro Alvarado! <br/><a href="https://www.linkedin.com/in/alessandro-alvarado-8b5457325/">Computer Information Systems and Analytics</a></h1>
+<h1>Hi, I'm Alessandro Alvarado! <br/><a href="https://www.linkedin.com/in/alessandro-alvarado-8b5457325/">Computer Information Systems and Analytics</a></h1>
 
 <h2>🧠 Technical Skill Demonstrations by Language:</h2>
 
