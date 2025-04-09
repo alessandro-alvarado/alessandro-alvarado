@@ -3,7 +3,7 @@
 <h2>🧠 Technical Skill Demonstrations by Language:</h2>
 
 - [Python Technical Skills](https://github.com/alessandro-alvarado/JavaTechnicalSkills/blob/main/README.md)
-- [SQL Technical Skills](https://github.com/alessandro-alvarado/JavaTechnicalSkills/blob/main/README.md)
+- [SQL Technical Skills](https://github.com/alessandro-alvarado/SQLTechnicalSkills/blob/main/README.md)
 - [Java Technical Skills](https://github.com/alessandro-alvarado/JavaTechnicalSkills/blob/main/README.md)
 
 
